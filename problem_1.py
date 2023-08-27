@@ -1,6 +1,6 @@
  # -*- coding: utf-8 -*-
 
-# YOUR FULL NAME MARIA IZABEL SILVA GOMES
+# YOUR FULL NAME LETÍCIA TAYNÁ PAIVA PEREIRA DE ALMEIDA LEITÃO
 # UAG00098
 # Problem Set 3 - Problem 1
 # Description:
